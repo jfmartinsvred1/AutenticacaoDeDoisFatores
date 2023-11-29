@@ -27,7 +27,3 @@ Este projeto utiliza a ASP.NET Web API para criar uma API responsável por geren
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes.
